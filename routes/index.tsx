@@ -8,7 +8,7 @@ export default function Home() {
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
         <p class="my-6">
-          Test Deno App with Marwan
+          Hello bitches !!!!!!!!!
         </p>
       </div>
     </>
